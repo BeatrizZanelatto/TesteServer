@@ -26,8 +26,13 @@
   },
   {
     "nome": "Elangue",
-    "data-nascimento": [1800,9,7],
+    "data-nascimento": [2004,9,23],
     "usa-oculos": true
+  },
+  {
+    "nome": "Lululis",
+    "data-nascimento": [2006,1,22],
+    "usa-oculos": false
   },
   {
     "nome": "Ana",
