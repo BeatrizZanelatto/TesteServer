@@ -3,10 +3,11 @@ const fs = require("fs")
 const app = express()
 const { getDatabaseInstance } = require("./database")
 
-app.use(express.static(__dirname + '/public'))
+app.use(express.static(__dirname + '/../public'))
+app.use(express.json())
 
 app.use("/create", async (req, res) => {
-  const { title, source, description, thumb } = req.query
+  const { title, source, description, thumb } = req.body
   const db = await getDatabaseInstance()
   const result = await db.run(`
     INSERT INTO movies(title, source, description, thumb) VALUES(?, ?, ?, ?)`,

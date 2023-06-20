@@ -1,0 +1,9 @@
+POST https://beatrizzanelatto-legendary-space-waddle-wq6vxrp4x5qcv69v-3000.preview.app.github.dev/movies HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Frozen - Uma aventura congelante",
+    "source": 
+    "description":
+    "thumb":
+}
