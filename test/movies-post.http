@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
     "title": "Frozen - Uma aventura congelante",
-    "source": 
-    "description":
-    "thumb":
+    "source": "https://youtu.be/TbQm5doF_Uc",
+    "description": "Acompanhada por um vendedor de gelo, a jovem e destemida princesa Anna parte em uma jornada por perigosas montanhas de gelo na esperança de encontrar sua irmã, a rainha Elsa, e acabar com a terrível maldição de inverno eterno, que está provocando o congelamento do reino.",
+    "thumb": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2436FBAB99BE322170331F37013AE23D30FF597B90375EFCFB69FB1A2EDAA202/scale?width=1200&aspectRatio=1.78&format=jpeg"
 }

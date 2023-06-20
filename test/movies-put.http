@@ -1,0 +1,9 @@
+PUT https://beatrizzanelatto-legendary-space-waddle-wq6vxrp4x5qcv69v-3000.preview.app.github.dev/movies?id=1 HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Próxima Parada: Lar Doce Lar",
+    "source": "https://youtu.be/5ZB-legrTPM",
+    "description": "Cansados de serem tratados como monstros pavorosos, um grupo formado pelos animais mais letais da Austrália planeja uma fuga do zoológico. No caminho, eles decidem levar consigo Pelúcio, o coala mais fofo e popular do mundo.",
+    "thumb": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/12/proxima-parada-de-volta-.jpg"
+}
